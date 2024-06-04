@@ -16,7 +16,6 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
   Here are a few projects I've been working on:
 
   - [JobMatch – Job Recommendation System (RAG)](https://github.com/BigDataIA-Spring2024-Sec1-Team3/JobMatch)
-  - [CFA Readings Data Extraction and Analysis](https://github.com/BigDataIA-Spring2024-Sec1-Team3/Assignment4)
   - [Movie Recommendation System](https://github.com/MuskanRaisinghani23/Movie-Recommendation-System)
   - [Knowledge Base Extraction System (RAG)](https://github.com/BigDataIA-Spring2024-Sec1-Team3/Knowledge-base-extraction-system)
 
@@ -27,13 +26,6 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 
 - 📫 **How to reach me:**
   [LinkedIn](https://www.linkedin.com/in/muskan-raisinghani) |
-  [Email](raisinghani.m@northeastern.edu) |
-
-- 📜 **Certifications and Badges**
-     - [Data Engineering - Snowflake](https://www.credly.com/badges/b1200396-3d87-484e-a32d-3baf80434947/public_url)
-     - [Azure AI fundamentals AI-900](https://www.credly.com/badges/325dc492-6afb-4af8-9a67-c569ff1e823a/public_url)
-     - [Azure data fundamentals - Microsoft](https://www.credly.com/badges/17a39fc3-e9d4-4c17-8cf8-2baeaad3d74d/public_url)
-     - [Azure Fundamentals - Microsoft](https://achieve.snowflake.com/d1ee2b9e-fa22-49c5-8665-fa6896ccca7f#gs.2djgje)
-     - Next in queue - AWS Cloud Practitioner
+  [Email](raisinghani.m@northeastern.edu)
 
 If you want to talk to me or discuss something, feel free to shoot me an email.
