@@ -14,8 +14,7 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 - 🚀 **Projects**
 
   Here are a few projects I've been working on:
-
-  - [JobMatch – Job Recommendation System (RAG)](https://github.com/BigDataIA-Spring2024-Sec1-Team3/JobMatch)
+  
   - [Movie Recommendation System](https://github.com/MuskanRaisinghani23/Movie-Recommendation-System)
   - [Knowledge Base Extraction System (RAG)](https://github.com/BigDataIA-Spring2024-Sec1-Team3/Knowledge-base-extraction-system)
 
