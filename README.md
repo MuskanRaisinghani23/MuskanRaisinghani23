@@ -14,13 +14,13 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 - 🚀 **Projects**
 
   Here are a few projects I've been working on:
-  
+  - [Text Classification using BERT models](https://github.com/MuskanRaisinghani23/Text-classification-using-BERT-models)
   - [Movie Recommendation System](https://github.com/MuskanRaisinghani23/Movie-Recommendation-System)
   - [Knowledge Base Extraction System (RAG)](https://github.com/BigDataIA-Spring2024-Sec1-Team3/Knowledge-base-extraction-system)
 
 - 📚 **Education**
 
-  - **Northeastern University** - Master of Science in Information Systems (Expected Graduation Date - May 2025)
+  - **Northeastern University** - Master of Science in Information Systems (Expected Graduation Date - Dec 2025)
   - **University of Mumbai** - Bachelors of Engineering in Computer Engineering (2016-2020)
 
 - 📫 **How to reach me:**
